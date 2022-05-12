@@ -1,4 +1,4 @@
-# Menu-Animation Profile✔
+# Project-Menu-Animation ✔
 
 
 ![menu-animation2](https://user-images.githubusercontent.com/97356148/166494708-e1617710-9fff-4760-a326-80fa02ef6ea6.jpg)
@@ -13,14 +13,7 @@
 - [x] Criação do CSS
 - [x] Criação do Java Script
 
-### <h2> 📍 Link do projeto:
-https://menuanimation.netlify.app/
+### <h2> 📍 Link do projeto:https://menuanimation.netlify.app/
 
 
-## 🤝 Yasmim Ferreira✨
-
-       
-       
-
-
-
+## 🤝Desenvolvedor(a) Yasmim Ferreira✨
